@@ -1,0 +1,16 @@
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\bin\Debug\net5.0\ProjetoFinalRoupas.exe
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\bin\Debug\net5.0\ProjetoFinalRoupas.deps.json
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\bin\Debug\net5.0\ProjetoFinalRoupas.runtimeconfig.json
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\bin\Debug\net5.0\ProjetoFinalRoupas.runtimeconfig.dev.json
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\bin\Debug\net5.0\ProjetoFinalRoupas.dll
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\bin\Debug\net5.0\ProjetoFinalRoupas.pdb
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ProjetoFinalRoupas.csproj.AssemblyReference.cache
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ProjetoFinalRoupas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ProjetoFinalRoupas.AssemblyInfoInputs.cache
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ProjetoFinalRoupas.AssemblyInfo.cs
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ProjetoFinalRoupas.csproj.CoreCompileInputs.cache
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ProjetoFinalRoupas.dll
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\refint\ProjetoFinalRoupas.dll
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ProjetoFinalRoupas.pdb
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ProjetoFinalRoupas.genruntimeconfig.cache
+C:\Users\Grillo\OneDrive\Documentos\GEN CONTEUDOS\GIT\ProjetoFinalModulo1\ProjetoFinalRoupas\ProjetoFinalRoupas\obj\Debug\net5.0\ref\ProjetoFinalRoupas.dll

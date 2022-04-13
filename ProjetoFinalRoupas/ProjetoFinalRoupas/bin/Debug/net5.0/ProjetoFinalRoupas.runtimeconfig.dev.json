@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Grillo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Grillo\\.nuget\\packages"
+    ]
+  }
+}
