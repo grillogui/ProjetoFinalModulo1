@@ -1,4 +1,4 @@
-Projeto Final para encerramento do módulo 1 do bootcamp de .NET da Generation Brasil.
+Projeto Final feito para encerramento do módulo 1 do bootcamp de .NET da Generation Brasil.
 
 Participantes do projeto:
 Guilherme Grillo - @grillogui
